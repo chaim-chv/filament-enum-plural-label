@@ -1,0 +1,14 @@
+{
+  "name": "chaim-chv/filament-enum-plural-label",
+  "description": "Plural label contract for PHP enums used with Laravel and Filament",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "FilamentEnumPluralLabel\\": "src/"
+    }
+  }
+}
