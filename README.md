@@ -6,10 +6,10 @@ a plural label for use in Filament resources, navigation, and tables.
 This package provides a single contract. It does not register hooks,
 override Filament behavior, or add magic.
 
-## Requirements
+## Compatibility
 
 - PHP 8.1+
-- Laravel 10 or 11
+- Laravel 10+
 - Filament v3+
 
 ## Installation
@@ -57,4 +57,4 @@ public static function getPluralModelLabel(): string
 }
 ```
 
-@chaim-chv © 2026
+[@chaim-chv](https://github.com/chaim-chv/) © 2026
